@@ -1,0 +1,4 @@
+models/
+downloaded_datasets/
+test/
+wandb/
